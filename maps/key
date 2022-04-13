@@ -1,0 +1,16 @@
+- == bordure
+1 == tout droit
+2 == vers la droite
+3 == coin bas gauche vers la droite
+4 == coin bas droite vers le haut
+5 == coin haut gauche vers la droite
+6 == coin haut droit vers le bas
+7 == intersection de la gauche vers haut et bas
+8 == intersection du haut et du bas vers la gauche
+9 == intersection de la gauche vers le haut et le bas
+E == end
+S == start
+C == coin haut droit vers la gauche
+H == coin bas gauche vers le haut
+D == coin bas droit vers le haut
+T == emplacement des tours
